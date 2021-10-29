@@ -1,0 +1,4 @@
+shutoPortfolio:
+  component: "@sls-next/serverless-component@3.4.0"
+  inputs: 
+    domain: "shutosuganuma.com"

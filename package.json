@@ -1,0 +1,40 @@
+{
+  "name": "shuto-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "postbuild": "next-sitemap"
+  },
+  "dependencies": {
+    "@react-three/drei": "^7.7.0",
+    "@react-three/fiber": "^7.0.6",
+    "bootstrap": "^5.1.0",
+    "contentful": "^8.5.6",
+    "framer-motion": "^4.1.17",
+    "gsap": "^3.7.1",
+    "lerp": "^1.0.3",
+    "luxon": "^2.0.2",
+    "next": "11.1.2",
+    "next-images": "^1.8.1",
+    "next-optimized-images": "^2.6.2",
+    "next-sitemap": "^1.6.184",
+    "next-transpile-modules": "^8.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-spring": "^9.2.4",
+    "react-three-fiber": "^6.0.13",
+    "react-transition-group": "^4.4.2",
+    "react-use": "^17.3.1",
+    "sass": "^1.39.0",
+    "swiper": "^7.0.3",
+    "three": "^0.132.2"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  }
+}
